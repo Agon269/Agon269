@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on any exciting projects
 
-### Connect with me:
+### Get in touch:
 
 [<img align="left" alt="tadesseabel.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://tadesseabel.com/)
 [<img align="left" alt="codeSTACKr | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Agon_42)
