@@ -8,7 +8,7 @@
 
 ### Get in touch:
 
-[<img align="left" alt="tadesseabel.com" width="26px" src="https://res.cloudinary.com/dvfihlcxd/image/upload/v1625942591/github_kosl0p.svghttps://res.cloudinary.com/dvfihlcxd/image/upload/v1625942591/github_kosl0p.svg" />](https://tadesseabel.com/)
+[<img align="left" alt="tadesseabel.com" width="26px" src="https://res.cloudinary.com/dvfihlcxd/image/upload/v1627219162/pngegg_xpzobl.png" />](https://tadesseabel.com/)
 [<img align="left" alt="linkedin | LinkedIn" width="26px" src="https://res.cloudinary.com/dvfihlcxd/image/upload/v1625942591/linkedin_uocczl.svg" />](https://www.linkedin.com/in/abel-tadesse-06b505175/)
 
 <br />
