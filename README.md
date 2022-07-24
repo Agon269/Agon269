@@ -1,7 +1,5 @@
 ### Hi there I am Abel👋
 
-## I'm a Computer Science graduate who likes to build fun projects
-
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on any exciting projects
