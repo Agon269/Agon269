@@ -1,8 +1,5 @@
 ### Hi there I am Abel👋
 
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on any exciting projects
 
 ### Get in touch:
 
